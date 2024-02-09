@@ -1,7 +1,7 @@
 {
   "name": "frisor",
   "private": true,
-  "homepage": "https://github.com/Youssef-Azroun/frisorPlus.git",
+  "homepage": "https://github.com/Youssef-Azroun/frisorPlus",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
