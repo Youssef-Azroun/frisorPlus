@@ -20,7 +20,6 @@ function App() {
         <link rel="icon" href="/images/logo.png" />
       </Helmet>
       <div className="header">
-      <img src={`/images/logo.png?v=${new Date().getTime()}`} alt="Frisör Plus Logo" className="logo" />
         <h1>Frisör Plus</h1>
       </div>
       <Content />
