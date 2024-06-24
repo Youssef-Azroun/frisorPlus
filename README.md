@@ -1,5 +1,5 @@
 # gh-pages
-
+https://youssef-azroun.github.io/frisorPlus/
 
 # React + Vite
 
